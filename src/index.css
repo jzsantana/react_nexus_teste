@@ -17,3 +17,19 @@
 body{
   background-color: #0A0A0A;
 }
+
+
+/* scroll bar do site  */
+body::-webkit-scrollbar {
+  width: 4px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent;       /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #1b1b1b;    /* color of the scroll thumb */
+  border-radius: 50px;       /* roundness of the scroll thumb */
+  
+}

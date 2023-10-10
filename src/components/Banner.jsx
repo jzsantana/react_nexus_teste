@@ -1,6 +1,5 @@
 import React from 'react'
 import './Banner.css'
-import Mockup from '../assets/mockup.svg'
 import Iphone from '../assets/iphone2.svg'
 import NexusLogo from '../assets/nexusLogo2.svg'
 
